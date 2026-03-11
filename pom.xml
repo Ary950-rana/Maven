@@ -27,6 +27,7 @@
                     <release>21</release>
                 </configuration>
             </plugin>
+                 system.out.println("");
         </plugins>
     </build>
 
